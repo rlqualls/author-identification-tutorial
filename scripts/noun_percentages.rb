@@ -3,7 +3,6 @@ require 'pathname'
 require 'treat'
 include Treat::Core::DSL
     
-
 def process_collection(path)
   puts "Author: #{Pathname.new(path).basename}"
   paths = Dir.glob(path + "/*")
