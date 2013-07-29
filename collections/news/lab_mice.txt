@@ -1,0 +1,25 @@
+Scientists have successfully planted false memories in laboratory mice, a feat that may one day have far-reaching consequences, especially in the legal system.
+
+Eyewitness court testimony was a factor in 75 percent of guilty verdicts that were later overturned by DNA testing, according to the Innocence Project.
+
+One of the most well-known cases of false memories came during one of the longest trials in American history, when a family who operated a preschool was charged with numerous accounts of child abuse. The trial lasted seven years, with some charges dropped after many of the accusations were proved to be based on false memories. The case led to the establishment of the term “False Memory Syndrome” and the foundation of the False Memory Syndrome Foundation.
+
+The phenomenon of false memory is well documented, but until now it has seemed more science fiction than reality. In fact, the notion of deliberately planted false memories was the main plot device in Hollywood sci-fi movies such as "Total Recall" and "Inception."
+
+In a paper appearing in the journal Science describing how false memories were planted in mice, MIT researchers have taken a step in understanding how false memories arise and found that the “neurological traces of these memories are identical in nature to those of authentic memories.”
+
+“Whether it’s a false or genuine memory, the brain’s neural mechanism underlying the recall of the memory is the same,” said Susumu Tonegawa, a professor of biology and neuroscience and senior author of a paper.
+
+In the first step, scientists needed to show that activating specific groups of hippocampal cells in the brain is sufficient to produce and recall memories. To achieve that, Tonegawa’s lab turned to optogenetics, a new technology that allows cells to be selectively turned on or off using light.
+
+First, the researchers placed the mice in a novel chamber, A, but did not deliver any shocks. As the mice explored this chamber, their memory cells were labeled with channelrhodopsin, a protein that activates neurons when stimulated by light. The next day, the mice were placed in a second, very different chamber, B. After a while, the mice were given a mild foot shock. At the same instant, the researchers used light to activate the cells encoding the memory of chamber A.
+
+On the third day, the mice were placed back into chamber A, where they now froze in fear, even though they had never been shocked there. A false memory had been introduced: The mice feared the memory of chamber A because when the shock was given in chamber B, they were reliving the memory of being in chamber A.
+
+Moreover, that false memory appeared to compete with a genuine memory of chamber B, the researchers found. These mice also froze when placed in chamber B, but not as much as mice that had received a shock in chamber B without having the chamber A memory activated.
+
+“Compared to most studies that treat the brain as a black box while trying to access it from the outside in, this is like we are trying to study the brain from the inside out,” said Xu Liu, a co-author of the study. “The technology we developed for this study allows us to fine-dissect and even potentially tinker with the memory process by directly controlling the brain cells.”
+
+The MIT team is now planning further studies of how memories can be distorted in the brain.
+
+“Now that we can reactivate and change the contents of memories in the brain, we can begin asking questions that were once the realm of philosophy,” said Steve Ramirez co-author of the study. “Are there multiple conditions that lead to the formation of false memories? Can false memories for both pleasurable and aversive events be artificially created? What about false memories for more than just contexts — false memories for objects, food or other mice? These are the once seemingly sci-fi questions that can now be experimentally tackled in the lab.”
